@@ -1,0 +1,21 @@
+one class is inhertited from its parent class and child class having the acess to use the prperties of  the parent class like
+object, method and variables.
+
+if a single class can be inhertited from multiple level of classes. then only we can say multiple inheritance.
+
+Hierarchical inheritance is the concept of inheritance in which two or more than two classes are inherited from a single parent class then it is called 
+Hierarchical inheritance.
+c,b->a
+
+Array:
+1.Array is a Linear  data structure
+2.Array allows Similar or homogeneous kinds of data
+3.Array is unidirectional
+4.Array have its limitation 
+
+Its is 2types 
+1.One Dimension
+data type array name[size]=new datatype [size];//declairation of array
+data type arrayname[size]={valeues};
+
+2.Multi Dimension
